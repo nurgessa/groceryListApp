@@ -20,4 +20,4 @@ This is a simple React web application that allows users to sign up, log in, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/grocery-app.git
+   git clone git@github.com:nurgessa/groceryListApp.git
